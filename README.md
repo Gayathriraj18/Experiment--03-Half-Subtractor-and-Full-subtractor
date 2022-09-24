@@ -52,30 +52,43 @@ endmodule
 
 ## Truthtable
 
-![WhatsApp Image 2022-09-24 at 10 13 33 PM](https://user-images.githubusercontent.com/94154854/192109455-7401fa6f-4558-4a33-93c1-8a8b348a4e37.jpeg)
+![half tt](https://user-images.githubusercontent.com/94154854/192110075-426c599e-31d0-4fad-88da-b01ddfe9692c.png)
+
+
+
 
 
 
 ##  RTL realization
 
-![WhatsApp Image 2022-09-24 at 10 13 33 PM](https://user-images.githubusercontent.com/94154854/192109434-7cc07e3c-8b41-42fc-b8a4-c80047aaeaee.jpeg)
+![ha rtl](https://user-images.githubusercontent.com/94154854/192110088-df9bf1f5-052c-4d7f-b87a-bf451a376458.png)
+
+
 
 
 ## Timing diagram 
-![WhatsApp Image 2022-09-24 at 10 13 33 PM](https://user-images.githubusercontent.com/94154854/192109523-02c17a68-a305-4547-8b28-5a139d9545d6.jpeg)
+
+![half time](https://user-images.githubusercontent.com/94154854/192110081-2f752b48-0c6b-471f-b3cf-ca3317083a0d.png)
+
 
 ### FULL ADDER:
 
 ## Truthtable
-![WhatsApp Image 2022-09-24 at 10 13 33 PM](https://user-images.githubusercontent.com/94154854/192109589-6bedd270-67ab-411c-b972-a6f38dfb411e.jpeg)
+
+![full tt](https://user-images.githubusercontent.com/94154854/192110101-dc2270b8-a937-4380-82e2-2f00a0285835.png)
+
 
 ##  RTL realization
 
-![WhatsApp Image 2022-09-24 at 10 13 33 PM](https://user-images.githubusercontent.com/94154854/192109674-369b5db2-44a1-4327-b560-6538d3d11f0c.jpeg)
+![full rtl](https://user-images.githubusercontent.com/94154854/192110111-7ef1ea0c-0012-42f3-a869-373cfa9fa972.png)
+
+
 
 ## Timing diagram :
 
-![WhatsApp Image 2022-09-24 at 10 13 33 PM](https://user-images.githubusercontent.com/94154854/192109701-80192bc2-d463-446e-8091-c2b1d58c63c7.jpeg)
+![full time](https://user-images.githubusercontent.com/94154854/192110117-a6b1f636-6b7d-4b69-a1cb-f7ba259c2d69.png)
+
+
 
 
 ## Result:
