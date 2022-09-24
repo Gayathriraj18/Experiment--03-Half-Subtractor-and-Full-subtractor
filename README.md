@@ -27,28 +27,56 @@ Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 
 ## Procedure
 
-
-
-Write the detailed procedure here 
-
-
 ## Program:
 /*
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: Gayathri A
+RegisterNumber:  212221230028
+
+### HALF ADDER:
+module full(output D,B,input x,y,z);
+assign D = x^y;
+assign B = (~x&y);
+endmodule
+
+### FULL ADDER:
+module full(output D,B,input x,y,z);
+assign D = x^y^z;
+assign B = (~x&(y^z)|(yz));
+endmodule
 */
 
 ## Output:
 
+### HALF ADDER:
+
 ## Truthtable
+
+![WhatsApp Image 2022-09-24 at 10 13 33 PM](https://user-images.githubusercontent.com/94154854/192109455-7401fa6f-4558-4a33-93c1-8a8b348a4e37.jpeg)
 
 
 
 ##  RTL realization
 
+![WhatsApp Image 2022-09-24 at 10 13 33 PM](https://user-images.githubusercontent.com/94154854/192109434-7cc07e3c-8b41-42fc-b8a4-c80047aaeaee.jpeg)
+
 
 ## Timing diagram 
+![WhatsApp Image 2022-09-24 at 10 13 33 PM](https://user-images.githubusercontent.com/94154854/192109523-02c17a68-a305-4547-8b28-5a139d9545d6.jpeg)
+
+### FULL ADDER:
+
+## Truthtable
+![WhatsApp Image 2022-09-24 at 10 13 33 PM](https://user-images.githubusercontent.com/94154854/192109589-6bedd270-67ab-411c-b972-a6f38dfb411e.jpeg)
+
+##  RTL realization
+
+![WhatsApp Image 2022-09-24 at 10 13 33 PM](https://user-images.githubusercontent.com/94154854/192109674-369b5db2-44a1-4327-b560-6538d3d11f0c.jpeg)
+
+## Timing diagram :
+
+![WhatsApp Image 2022-09-24 at 10 13 33 PM](https://user-images.githubusercontent.com/94154854/192109701-80192bc2-d463-446e-8091-c2b1d58c63c7.jpeg)
+
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
